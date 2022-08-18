@@ -1,0 +1,6 @@
+.img-profiles {
+    width: 200px;
+    height: 200px;
+    display: inline-flex;
+    flex-wrap: wrap;
+}
